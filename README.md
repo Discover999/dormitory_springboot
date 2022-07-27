@@ -47,13 +47,16 @@
 
 **开发环境：**
 
-![ide](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%202022.2-brightgreen)![java](https://img.shields.io/badge/Java-1.8-orange)
+![ide](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%202022.2-brightgreen)
+![java](https://img.shields.io/badge/Java-1.8-orange)
 
 <br>
 
 **技术支持：**
 
-![`SpringBoot 2.7.1`](https://img.shields.io/badge/SpringBoot-2.7.1-blue)![`Vue 2.6.11`](https://img.shields.io/badge/Vue-2.6.11-blue)![`element-ui 2.4.5`](https://img.shields.io/badge/Element--UI-2.4.5-blue)
+![`SpringBoot 2.7.1`](https://img.shields.io/badge/SpringBoot-2.7.1-blue)
+![`Vue 2.6.11`](https://img.shields.io/badge/Vue-2.6.11-blue)
+![`element-ui 2.4.5`](https://img.shields.io/badge/Element--UI-2.4.5-blue)
 
 
 <br><br>
