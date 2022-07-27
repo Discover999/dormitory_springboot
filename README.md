@@ -19,7 +19,7 @@
 
 分为前端后端两部分.
 
-<br><br>
+<br>
 
 **SpringBoot后端：**
 
@@ -33,14 +33,14 @@
 
 > `npm run serve`
 
-<br><br>
+<br>
 
 
 后端地址：[localhost:9090](http://localhost:9090/)
 
 前端地址：[localhost:9999](http://localhost:9999/)
 
-<br><br><br>
+<br>
 
 
 
@@ -48,14 +48,14 @@
 
 ![ide](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%202022.2-brightgreen)![java](https://img.shields.io/badge/Java-1.8-orange)
 
-<br><br><br>
+<br>
 
 **技术支持：**
 
 ![`SpringBoot 2.7.1`](https://img.shields.io/badge/SpringBoot-2.7.1-blue)![`Vue 2.6.11`](https://img.shields.io/badge/Vue-2.6.11-blue)![`element-ui 2.4.5`](https://img.shields.io/badge/Element--UI-2.4.5-blue)
 
 
-<br><br><br>
+<br><br>
 
 
 **数据库E-R图：**
