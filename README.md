@@ -4,7 +4,8 @@
 
 
 <br>
-**一个基于 SpringBoot&Vue 的宿舍管理系统.**
+
+**一个基于 SpringBoot&Vue 的宿舍管理系统**
 
 > 来自B站 [Spring Boot+Vue宿舍管理系统](https://www.bilibili.com/video/BV1YS4y1v7hL)
 
